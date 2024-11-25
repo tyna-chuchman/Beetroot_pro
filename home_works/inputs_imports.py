@@ -1,22 +1,22 @@
 # Task 1:
 
-# print('\n')
-# import random
-# user_number = int(input())
-# random_number = random.randint(1, 10)
+print('\n')
+import random
+user_number = int(input())
+random_number = random.randint(1, 10)
 
-# if user_number == random_number:
-#     print('You guessed it right! ', random_number)
-# else:
-#     print('Try again, the desired number was: ', random_number)
+if user_number == random_number:
+    print('You guessed it right! ', random_number)
+else:
+    print('Try again, the desired number was: ', random_number)
 
 
 # Task 2:
 
-# u_name = input()
-# u_age = int(input())
+u_name = input()
+u_age = int(input())
 
-# print(f"Dear {u_name}, next year you are turning {u_age + 1}!" )
+print(f"Dear {u_name}, next year you are turning {u_age + 1}!" )
 
 # Task 3:
 import random
